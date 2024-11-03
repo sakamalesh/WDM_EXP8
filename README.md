@@ -1,5 +1,7 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
-### DATE: 10-10-2024
+## Name:Kamalesh S
+## Reg_No:21223040083
+### DATE: 5-10-2024
 ### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ### Description: 
 <div align = "justify">
